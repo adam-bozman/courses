@@ -1,7 +1,7 @@
 ---
 title: "Example Slides"
 subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
+author: "Adam Bozman"
 institute: "RStudio, PBC"
 date: "2016/12/12 (updated: `r Sys.Date()`)"
 output:
